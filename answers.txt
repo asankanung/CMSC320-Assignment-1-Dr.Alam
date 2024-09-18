@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: To be able to keep track of any changes we make and revert any bad 
+updates
